@@ -1,0 +1,11 @@
+{
+  "appId": "com.daymark.app",
+  "appName": "Daymark",
+  "webDir": "dist",
+  "plugins": {
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_daymark",
+      "iconColor": "#7658e8"
+    }
+  }
+}
